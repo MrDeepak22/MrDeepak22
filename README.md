@@ -71,9 +71,9 @@ With a strong background in scalable web application development, API integratio
 
 ## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDeepak22&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeepak22&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeepak22&layout=compact&theme=radical" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api?username=MrDeepak22&show_icons=true&theme=radical" />
+  <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeepak22&theme=radical" />
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeepak22&layout=compact&theme=radical" />
 </p>
 
 ---
