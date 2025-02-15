@@ -57,13 +57,28 @@ With a strong background in scalable web application development, API integratio
 
 ---
 
-## 🌟 **Freelance Platforms**
+## 📊 **GitHub Stats**
 <p align="center">
-  <a href="https://www.fiverr.com/mr_deepak01/buying?source=avatar_menu_profile">
-    <img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrDeepak22&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeepak22&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeepak22&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🌐 **Social Links**
+<p align="center">
+  <a href="https://www.instagram.com/_mrdeepak01_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~0110e5444393152a41">
-    <img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" />
+  <a href="https://www.facebook.com/profile.php?id=61566915376955">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/deepak-k-704410ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://erdeepakkumar.in/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
