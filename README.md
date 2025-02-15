@@ -16,6 +16,13 @@ With a strong background in scalable web application development, API integratio
   <img src="https://img.shields.io/badge/Shopify%20API-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
+### 🛢 **Database Design & Management**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sequelize-%230052CC.svg?style=for-the-badge&logo=sequelize&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
 ### 🎨 **Frontend Development**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -24,13 +31,6 @@ With a strong background in scalable web application development, API integratio
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-### 🛢 **Database Design & Management**
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sequelize-%230052CC.svg?style=for-the-badge&logo=sequelize&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### ☁️ **Cloud & DevOps**
