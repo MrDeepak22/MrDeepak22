@@ -40,6 +40,13 @@ With a strong background in scalable web application development, API integratio
   <img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+### 💻 **Operating Systems**
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/MacOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
 ### 🔍 **API Testing & Development Tools**
 <p align="center">
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
@@ -50,31 +57,8 @@ With a strong background in scalable web application development, API integratio
 
 ---
 
-## 📊 **GitHub Stats**
+## 🌟 **Freelance Platforms**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrDeepak22&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrDeepak22&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDeepak22&layout=compact&theme=radical" />
-</p>
-
-📅 *Committed to lifelong learning and daily contributions!* 🚀
-
----
-
-## 🌐 **Connect with Me**
-<p align="center">
-  <a href="https://www.instagram.com/_mrdeepak01_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=61566915376955">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/deepak-k-704410ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://erdeepakkumar.in/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
   <a href="https://www.fiverr.com/mr_deepak01/buying?source=avatar_menu_profile">
     <img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
