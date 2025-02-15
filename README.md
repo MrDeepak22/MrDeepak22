@@ -40,6 +40,14 @@ With a strong background in scalable web application development, API integratio
   <img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
+### 🔍 **API Testing & Development Tools**
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Testing-%23000000.svg?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDM-%23000000.svg?style=for-the-badge&logo=internetdownloadmanager&logoColor=white" />
+</p>
+
 ---
 
 ## 📊 **GitHub Stats**
