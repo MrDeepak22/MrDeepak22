@@ -67,6 +67,12 @@ With a strong background in scalable web application development, API integratio
   <a href="https://erdeepakkumar.in/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://www.fiverr.com/mr_deepak01/buying?source=avatar_menu_profile">
+    <img src="https://img.shields.io/badge/Fiverr-%2300B22D.svg?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0110e5444393152a41">
+    <img src="https://img.shields.io/badge/Upwork-%236FDA44.svg?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
 </p>
 
 ---
