@@ -7,6 +7,15 @@ With a strong background in scalable web application development, API integratio
 
 ## 🎨 **Tech Stack & Expertise**
 
+### ⚙️ **Backend Development & API Development**
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shopify%20API-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" />
+</p>
+
 ### 🎨 **Frontend Development**
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -15,15 +24,6 @@ With a strong background in scalable web application development, API integratio
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
-
-### ⚙️ **Backend Development & API Development**
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify%20API-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white" />
 </p>
 
 ### 🛢 **Database Design & Management**
